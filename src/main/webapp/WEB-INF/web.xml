@@ -13,4 +13,20 @@
         <servlet-name>Servlet-ShowDate</servlet-name>
         <url-pattern>/showDate</url-pattern>
     </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet-ShowDate</servlet-name>
+        <url-pattern>/showDate/simple</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet-ShowDate</servlet-name>
+        <url-pattern>/showDate/simple/task</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet-ShowDate</servlet-name>
+        <url-pattern>/showDate/test</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>Servlet-ShowDate</servlet-name>
+        <url-pattern>/showDate/done</url-pattern>
+    </servlet-mapping>
 </web-app>
